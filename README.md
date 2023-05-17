@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Davi Gazola!
 
-- 🌱 Atualmente estou estudando front-end
+- 🌱 Desenvolvedor Front-end
 - 📫 Entre em contato comigo pelo e-mail: davi.gzola@gmail.com
 
 ##
